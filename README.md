@@ -1,4 +1,4 @@
-#STRO.MY tools
+# STRO.MY tools
 
 A set of two simple tools commissioned by Jiří Trtík for his composition Concert for Forest.
 
