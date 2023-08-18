@@ -1,6 +1,6 @@
 # STRO.MY tools
 
-A set of two simple tools commissioned by [Jiří Trtík](https://jiritrtik.com/) for his composition Concert for Forest.
+A set of two simple tools commissioned by [Jiří Trtík](https://jiritrtik.com/) for his composition [Concert for Forest](https://stro.my/concert-for-forest/).
 
 **TypeMidi** records times of pressed keys when writing text into a text field.
 Then it converts them to musical rhythms. Output formats are musicxml and midi.
